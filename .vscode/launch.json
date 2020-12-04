@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Application",
+      "request": "launch",
+      "mainClass": "com.sap.cap.bookstore.Application",
+      "projectName": "bookstore"
+    }
+  ],
+  "version": "0.2.0"
+}
